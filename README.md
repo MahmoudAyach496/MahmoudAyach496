@@ -1,5 +1,5 @@
 ### 👋 Introduction
-Hi there! I'm Mahmoud, a passionate and dedicated senior year Data Science student. I'm deeply immersed in the world of data, analytics, and the power of AI to transform industries and everyday life.
+Hi there! I'm Mahmoud, a passionate and dedicated Data Science Graduate. I'm deeply immersed in the world of data, analytics, and the power of AI to transform industries and everyday life.
 
 ### 👀 Interests
 My primary interest lies in Programming, especially in the realm of data science and machine learning. I'm fascinated by how programming can unlock insights from data and drive decision-making.
